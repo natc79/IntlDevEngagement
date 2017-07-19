@@ -36,13 +36,15 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 |UN human rights|0.067|0.095|0.087|0.19|0.036|0.166|0.008|0.017|0.084|0.022|0.034|0.016|0.177|
 |World Bank|0.309|0.046|0.101|0.101|0.062|0.052|0.021|0.032|0.058|0.041|0.05|0.01|0.117|
 
-![alt text](https://github.com/natc79/StockPrices/blob/master/HighVolumeDays.png "High Volume")
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/post_engagement.png "Average Engagement with Posts")
 
 ## Real Engagement?
 
 A key concern is that engagement may be superficial if organizations undertake actions to boost their engagement numbers.  The publicly available Facebook data, however, is somewhat limited in its scope to identify organizations undertaking actions that boost artifically count numbers as it is not possible to break down likes by countries, languages or view details on most people who like the page beyond the ID/name.  This presents difficulties in the analysis in that it introduces an additional error into any model that attempts to understand factors driving engagement as it is unrelated to actual content and quality of the post.  For example boosting the number of likes of your posts by 1000 can cost as little as $5 per month.
 
 Considering that comments are a better measure of real engagement compared to likes as it involves an extra time cost and far fewer services are for post commenting, we examine how the organizations compare in terms of the ratio of likes to comments.  All observations where comments are 0 are dropped from consideration.  The graph below shows that ADB stands out with nearly 455 times the number of likes compared to comments.  Nevertheless, World Bank has a comparatively high number of likes to comments at around 65 in comparison to some of the other organizations that have ratios of 30 or less.  Are these real likes driven by differences in core constituent populations that focus more on likes or are they artificially boosted numbers?  At the very least it indicates the need to better understand some of the drivers of likes to comments as artificially boosting the number of likes may have very little return in developing true engagement. 
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/likes_to_comments.png "Likes to Comments")
 
 ## Factors influencing engagement on Facebook
 
