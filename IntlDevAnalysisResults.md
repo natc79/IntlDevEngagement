@@ -12,7 +12,9 @@ The international organizations reviewed are making efforts to leverage social m
 
 While UN, UNHR and World Bank have a high number of fans/followers of the pages at over 2 million the conversion of fans into actual engagement is low with the UN and UNHR receiving only about 400-500 likes per average while the World Bank receives 1500 likes per post.  However, the ADB has the highest likes per number of followers given that it only has around 250K follower, but nearly 1100 likes per post.  If comments and shares is a better measure of true engagement then both the UN is doing the best of the organizations reaching an average of 50 comments compared to only 3 comments on ADB pages and 15 comments on World Bank pages.  The UN organizations the UNHR also has nearly 4 times as many shares as the World Bank at 170 shares on average per post.  Nevertheless some of these basic statistics should be viewed with caution as a closer examination of World Bank and ADB page likes over time indicates that these likes may not be organic.  In contrast, comments and shares appear to suffer less from distortions.   
 
-|Page|Number of Posts|Days on FB|Number of Posts per Day|Photo share|Video share|Message Polarity|Message Subjectivity|Mean likes|Mean comments|Mean shares|
+**Table 1**
+
+|Page|# of Posts|Days on FB|# of Posts per Day|Photo share|Video share|Message Polarity|Message Subjectivity|Mean likes|Mean comments|Mean shares|
 |---|---|---|---|---|---|---|---|---|---|---|
 |AsianDevBank|3033.0|2639.0|1.149|0.337|0.121|0.126|0.348|1169.574|3.245|21.411|
 |IADB.org|5123.0|3101.0|1.652|0.213|0.041|0.107|0.292|11.806|0.453|4.745|
@@ -22,8 +24,9 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 |UN Human Rights|4591.0|3343.0|1.373|0.76|0.062|0.07|0.289|506.255|43.793|177.365|
 |World Bank|6006.0|3824.0|1.571|0.518|0.163|0.131|0.351|1495.177|15.735|44.151|
 
+**Table 2**
 
-|Page|Poverty and Inequality Growth|Aid Effectiveness|Climate Change|Corruption and Governance|Education|Gender|Data and Technology|Finance and Investment|Global Health|Infrastructure|Migration|International Trade|Other|
+|Page|Poverty, Ineq., Growth|Aid Effectiveness|Climate Change|Corruption and Governance|Education|Gender|Data and Technology|Finance and Investment|Global Health|Infrastructure|Migration|International Trade|Other|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |AsianDevBank|0.167|0.106|0.153|0.081|0.046|0.048|0.025|0.056|0.034|0.089|0.029|0.028|0.136|
 |IADB.org|0.102|0.1|0.112|0.115|0.075|0.046|0.032|0.072|0.051|0.048|0.013|0.033|0.2|
@@ -33,7 +36,7 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 |UN human rights|0.067|0.095|0.087|0.19|0.036|0.166|0.008|0.017|0.084|0.022|0.034|0.016|0.177|
 |World Bank|0.309|0.046|0.101|0.101|0.062|0.052|0.021|0.032|0.058|0.041|0.05|0.01|0.117|
 
-
+![alt text](https://github.com/natc79/StockPrices/blob/master/HighVolumeDays.png "High Volume")
 
 ## Real Engagement?
 
@@ -60,4 +63,4 @@ The organizations considered have many differences in the frequency of posts, ti
 This is a first pass at trying to understand what drives user engagement in international organizations.  However, by gathering outside data on relevant and newsworthy topics it is possible to better understand the value added from strategic posting.  Being able to obtain more detailed data on who is liking, sharing and commenting on the pages can help to better design posting content that is targeted and different demographic groups and identify key influencers that can be leveraged to generate greater engagement.  Finally, being able to separate out artificial likes from real likes may be important step in trying to improving accountability and the content produced by these organizations that is responsive and more informative for the issues that followers are concerned about.  
 
 
-![alt text](https://github.com/natc79/StockPrices/blob/master/HighVolumeDays.png "High Volume")
+
