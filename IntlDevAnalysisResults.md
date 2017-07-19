@@ -38,6 +38,17 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 
 ![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/post_engagement.png "Average Engagement with Posts")
 
+## Trends over time
+
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/post_per_month.png "Posts Per Month")
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/num_likes_per_month.png "Likes Per Month")
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/num_comments_per_month.png "Comments Per Month")
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/num_shares_per_month.png "Shares Per Month")
+
 ## Real Engagement?
 
 A key concern is that engagement may be superficial if organizations undertake actions to boost their engagement numbers.  The publicly available Facebook data, however, is somewhat limited in its scope to identify organizations undertaking actions that boost artifically count numbers as it is not possible to break down likes by countries, languages or view details on most people who like the page beyond the ID/name.  This presents difficulties in the analysis in that it introduces an additional error into any model that attempts to understand factors driving engagement as it is unrelated to actual content and quality of the post.  For example boosting the number of likes of your posts by 1000 can cost as little as $5 per month.
