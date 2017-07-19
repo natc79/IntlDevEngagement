@@ -24,7 +24,7 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 
 
 |Page|Poverty and Inequality Growth|Aid Effectiveness|Climate Change|Corruption and Governance|Education|Gender|Data and Technology|Finance and Investment|Global Health|Infrastructure|Migration|International Trade|Other|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |AsianDevBank|0.167|0.106|0.153|0.081|0.046|0.048|0.025|0.056|0.034|0.089|0.029|0.028|0.136|
 |IADB.org|0.102|0.1|0.112|0.115|0.075|0.046|0.032|0.072|0.051|0.048|0.013|0.033|0.2|
 |UNDP|0.13|0.114|0.106|0.13|0.037|0.108|0.018|0.03|0.066|0.04|0.043|0.009|0.17|
