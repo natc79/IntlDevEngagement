@@ -56,11 +56,13 @@ Broad findings:
 3. Posts with longer messages on average do increase likes and comments.  Whether this is related to quality of content or other factors is still unknown.
 4. There are indications that the core followers of the organizations differ substantially in terms of their response rates to different content.  For the World Bank there is no difference in likes among the different topic postings, but topics of migration, corruption and governance, and infrastructure getting more shares.  The UN gets more likes on topics of corruption and governance, gender, and education.  ADB only receives positive responses to topics of climate change.
 
-![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_World Bank.png "World Bank")
 
-![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_United Nations.png "United Nations")
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_AsianDevBank.png "Asian Development Bank")
 
-![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_Asian Development Bank.png "Asian Development Bank")
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_worldbank.png "World Bank")
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_unitednations.png "United Nations")
+
 
 # Conclusions
 
