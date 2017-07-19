@@ -43,6 +43,7 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 |World Bank|0.309|0.046|0.101|0.101|0.062|0.052|0.021|0.032|0.058|0.041|0.05|0.01|0.117|
 
 **Figure 1**
+
 ![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/post_engagement.png "Average Engagement with Posts")
 
 ## Trends over time
@@ -50,6 +51,7 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 The basic statistics, however, do not give the full picture of the evolution of engagement over time.  Some organizations could be doing better to build a following and growing engagement over time showing a more methodical strategy.  Figure 2 shows how total posts and engagement by month have evolved over time for three of the organizations.  All of the organizations have been increasing the average number of posts they make with the UN making far more posts than the World Bank or ADB.  Nevertheless the UN has far fewer number of likes and the likes per post per month appears to have stagnated in contrast to the two other organizations.  However, the large upward swing in the number of likes of two other organizations raises the question about the degree to which these likes are organically driven.  In terms of comments and shares the UN has far more per post.  Nevertheless there is no observed trend in recent years that indicate that any of these organizations are growing in terms of followers that actively comment and share their content.  Moreover, the UN appears to catch attention on a few key issues that cause engagement to spike temporarily.  However, this does not appear to have a lasting effect.  In general, it appears none of these organizations are effective on Facebook in generating sustained and growing interest as measured by comments and reshares of the posts.
 
 **Figure 2**
+
 ![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/engagement_per_month.png "Engagement Per Month")
 
 ## Real Engagement?
@@ -61,6 +63,7 @@ Organizations whose management is focused more on the short-term may emphasize s
 Are these real likes driven by differences in core constituent populations that focus more on likes or are they artificially boosted numbers?  At the very least it indicates the need to better understand some of the drivers of likes to comments as artificially boosting the number of likes may have very little return in developing true engagement. 
 
 **Figure 3**
+
 ![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/likes_to_comments.png "Likes to Comments")
 
 ## Factors influencing engagement on Facebook
@@ -74,14 +77,17 @@ Broad findings:
 4. There are indications that the core followers of the organizations differ substantially in terms of their response rates to different content.  For the World Bank there is no difference in likes among the different topic postings, but topics of migration, corruption and governance, and infrastructure getting more shares.  The UN gets more likes on topics of corruption and governance, gender, and education.  ADB only receives positive responses to topics of climate change.
 
 **Asian Development Bank**
+
 ![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_AsianDevBank.png "Asian Development Bank")
 
 
 **World Bank**
+
 ![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_worldbank.png "World Bank")
 
 
 **United Nations**
+
 ![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_unitednations.png "United Nations")
 
 
