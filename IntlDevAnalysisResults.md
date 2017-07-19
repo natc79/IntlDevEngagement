@@ -56,6 +56,12 @@ Broad findings:
 3. Posts with longer messages on average do increase likes and comments.  Whether this is related to quality of content or other factors is still unknown.
 4. There are indications that the core followers of the organizations differ substantially in terms of their response rates to different content.  For the World Bank there is no difference in likes among the different topic postings, but topics of migration, corruption and governance, and infrastructure getting more shares.  The UN gets more likes on topics of corruption and governance, gender, and education.  ADB only receives positive responses to topics of climate change.
 
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_worldbank.png "World Bank")
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_unitednations.png "United Nations")
+
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/significance_AsianDevBank.png "Asian Development Bank")
+
 # Conclusions
 
 The organizations considered have many differences in the frequency of posts, timing of posts, and the topic matter of the posts.  They also differ in strategies on using video and photo messaging.  We used a simple linear framework to analyze contributors to higher number of likes, comments, and shares. It was found that how people interact with the pages and what they respond to are different among the organizations suggesting differences in demographics and preferences of the consumers of the content of posts put out by these organizations.  However, when organizations potentially rely heavily on buying likes the content may matter very little in increasing real user engagement.  
