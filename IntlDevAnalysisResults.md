@@ -41,7 +41,7 @@ While UN, UNHR and World Bank have a high number of fans/followers of the pages 
 ## Trends over time
 
 
-![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/post_per_month.png "Engagement Per Month")
+![alt text](https://github.com/natc79/IntlDevEngagement/blob/master/engagement_per_month.png "Engagement Per Month")
 
 ## Real Engagement?
 
