@@ -4,7 +4,7 @@ Facebook data is used to compare post timing and content of international organi
 
 ## Main Report
 
-**IntlDevAnalysisResults.md **
+**IntlDevAnalysisResults.md**
 Contains the write-up for the main results of the analysis.
 
 ## Python Files
